@@ -1,7 +1,7 @@
 import csv
 
 # Make a list of all the filenames 2012_01.txt etc.
-fnamebase = 'U:\\AccessServices\\2014 CircStats\\'
+fnamebase = ''
 fnames = []
 YEAR = '2013'
 NUMMONTHS = 12 # For partial year usage (normally 12 of course)
